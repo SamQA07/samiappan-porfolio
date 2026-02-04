@@ -8,27 +8,6 @@ A modern, responsive portfolio website showcasing my skills, experience, and ach
 
 Experienced Test Engineer with expertise in testing web applications. Capable of formulating test plans, performing tests, compiling reports, and automating processes using Agile methodologies. I drive organisational success and improve end-user satisfaction through effective bug tracking, test case management, and collaboration with cross-functional teams.
 
-## 🛠️ Skills Highlighted
-
-### Testing Expertise
-- Functional & Non-functional Testing
-- Test Planning & Execution
-- API Testing
-- UI Automation
-- Debugging
-
-### Tools & Technologies
-- **Automation**: Playwright, JavaScript
-- **Bug Tracking**: JIRA
-- **Test Management**: Qase
-- **API Testing**: Postman, REST APIs
-
-### Soft Skills
-- Cross-functional Collaboration
-- Agile Methodology
-- Bug Triaging
-- Team Coordination
-
 ## 📁 Project Structure
 
 ```
