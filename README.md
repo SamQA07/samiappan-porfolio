@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website showcasing my skills, experience, and achievements as a **Jr. Testing Engineer** with 4+ years of expertise in manual and automation testing.
 
-🔗 **Live Demo**: [Coming Soon - Azure Static Web Apps]
+🔗 **Live Demo**: https://porfolio-samiappan-gcg6acdpg7b3ctbp.centralindia-01.azurewebsites.net/ 
 
 ## 👨‍💻 About Me
 
