@@ -129,6 +129,27 @@ const highlightNavOnScroll = (): void => {
 window.addEventListener('scroll', highlightNavOnScroll);
 
 // ============================================
+// Mobile Menu Toggle
+// ============================================
+const menuToggle = document.querySelector('.menu-toggle');
+const navLinksContainer = document.querySelector('.nav-links');
+
+menuToggle?.addEventListener('click', () => {
+    menuToggle.classList.toggle('active');
+    navLinksContainer?.classList.toggle('active');
+    document.body.style.overflow = navLinksContainer?.classList.contains('active') ? 'hidden' : '';
+});
+
+// Close menu when a link is clicked
+navLinks.forEach(link => {
+    link.addEventListener('click', () => {
+        menuToggle?.classList.remove('active');
+        navLinksContainer?.classList.remove('active');
+        document.body.style.overflow = '';
+    });
+});
+
+// ============================================
 // Initialize on DOM Load
 // ============================================
 document.addEventListener('DOMContentLoaded', () => {

@@ -2,7 +2,15 @@
 
 A modern, responsive portfolio website showcasing my skills, experience, and achievements as a **Jr. Testing Engineer** with 4+ years of expertise in manual and automation testing.
 
-🔗 **Live Demo**: https://porfolio-samiappan-gcg6acdpg7b3ctbp.centralindia-01.azurewebsites.net/ 
+## 🌐 Live Website
+
+🔗 **[View Portfolio](https://porfolio-samiappan-gcg6acdpg7b3ctbp.centralindia-01.azurewebsites.net/)**
+
+| Platform | URL |
+|----------|-----|
+| **Azure Web App** | [porfolio-samiappan.azurewebsites.net](https://porfolio-samiappan-gcg6acdpg7b3ctbp.centralindia-01.azurewebsites.net/) |
+| **Region** | Central India |
+| **CI/CD** | GitHub Actions | 
 
 ## 👨‍💻 About Me
 
@@ -80,7 +88,6 @@ This portfolio is configured for deployment on **Azure Static Web Apps**:
 
 ## 📞 Contact
 
-- **Email**: jsamijaya636@gmail.com
 - **LinkedIn**: [samiappan-jayachandran](https://www.linkedin.com/in/samiappan-jayachandran-a7917419a)
 - **GitHub**: [SamQA07](https://github.com/SamQA07)
 - **Location**: Tamil Nadu, India
